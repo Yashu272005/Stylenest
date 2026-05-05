@@ -1,0 +1,21 @@
+{
+  "name": "stylenest",
+  "version": "1.0.0",
+  "description": "StyleNest – Upgrade Your Style ✨",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML project - no build step required'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "fashion",
+    "ecommerce",
+    "style"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
